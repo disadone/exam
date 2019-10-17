@@ -1,6 +1,10 @@
 # exam
 
-- [ ] 1.重组DNA技术与基因工程 李効东 丁晴
+[old神经生物学实验生物学](http://old.ion.ac.cn/chinese/students/kjxx.asp)
+[实验生物学](http://www.cebsit.cas.cn/yjs/zxpy/kjxz/syswx/)
+[神经生物学](http://www.cebsit.cas.cn/yjs/zxpy/kjxz/sjswx/)
+[分子生物学](http://www.sibcb.ac.cn/edu/jiaowu.jsp?ntype=1)
+- [ ] 1.重组DNA技术与基因工程 李効东
 - [ ] 2.模式生物技术
 - [ ] 3.流式细胞原理及应用 胡港
 - [ ] 4.生物光学成像技术 张贺
