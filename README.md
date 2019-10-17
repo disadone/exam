@@ -2,6 +2,9 @@
 
 [old神经生物学实验生物学](http://old.ion.ac.cn/chinese/students/kjxx.asp)
 [实验生物学](http://www.cebsit.cas.cn/yjs/zxpy/kjxz/syswx/)
+实验生物学，百度网盘
+链接：https://pan.baidu.com/s/1tCoiJkkwpLBlqGPHyKRy1Q 
+提取码：khel 
 [神经生物学](http://www.cebsit.cas.cn/yjs/zxpy/kjxz/sjswx/)
 [分子生物学](http://www.sibcb.ac.cn/edu/jiaowu.jsp?ntype=1)
 - [ ] 1.重组DNA技术与基因工程 李効东
