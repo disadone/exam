@@ -5,6 +5,7 @@
 
 [实验生物学课件](http://www.cebsit.cas.cn/yjs/zxpy/kjxz/syswx/)
 
+[植生所-郝国栋整理的实验生物学的资料](http://Nas-3102.quickconnect.cn/d/s/514459095407829205/Yo8dQ48vy4MR5YcjhkDkTaoIJEMdULns-HrKAXuETMgc_)
 实验生物学课件（百度网盘）
 
 链接：https://pan.baidu.com/s/1tCoiJkkwpLBlqGPHyKRy1Q 
@@ -14,6 +15,7 @@
 [神经生物学课件](http://www.cebsit.cas.cn/yjs/zxpy/kjxz/sjswx/)
 
 [分子生物学课件](http://www.sibcb.ac.cn/edu/jiaowu.jsp?ntype=1)
+
 
 - [X] 1.重组DNA技术与基因工程 丁晴
 - [X] 2.模式生物技术 黄潞言
