@@ -5,9 +5,9 @@
 
 该预测依据历年非两年连续出题为依据，具有一定的科学性
 
-[old神经生物学实验生物学课件](http://old.ion.ac.cn/chinese/students/kjxx.asp)
+[网站-old神经生物学实验生物学课件](http://old.ion.ac.cn/chinese/students/kjxx.asp)
 
-[实验生物学课件](http://www.cebsit.cas.cn/yjs/zxpy/kjxz/syswx/)
+[网站-实验生物学课件](http://www.cebsit.cas.cn/yjs/zxpy/kjxz/syswx/)
 
 [植生所-郝国栋整理的实验生物学的资料](http://Nas-3102.quickconnect.cn/d/s/514459095407829205/Yo8dQ48vy4MR5YcjhkDkTaoIJEMdULns-HrKAXuETMgc_)
 里面有全部的实验生物学的ppt，以及一些复习资料
@@ -19,9 +19,9 @@
 
 提取码：khel 
 
-[神经生物学课件](http://www.cebsit.cas.cn/yjs/zxpy/kjxz/sjswx/)
+[网站-神经生物学课件](http://www.cebsit.cas.cn/yjs/zxpy/kjxz/sjswx/)
 
-[分子生物学课件](http://www.sibcb.ac.cn/edu/jiaowu.jsp?ntype=1)
+[网站-分子生物学课件](http://www.sibcb.ac.cn/edu/jiaowu.jsp?ntype=1)
 
 
 - [X] 1.重组DNA技术与基因工程 丁晴
