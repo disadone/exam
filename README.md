@@ -1,6 +1,6 @@
 # exam
 
-大佬的预测：张惠展，严军，王凯，何杰（替补：胡苹）
+神所大佬（不是我）的预测：张惠展，严军，王凯，何杰（替补：胡苹）
 
 [old神经生物学实验生物学课件](http://old.ion.ac.cn/chinese/students/kjxx.asp)
 
