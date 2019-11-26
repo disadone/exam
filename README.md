@@ -20,11 +20,11 @@
 [网站-分子生物学课件](http://www.sibcb.ac.cn/edu/jiaowu.jsp?ntype=1)
 
 分子
-- [ ] Second messengers, Diffusion and electrical signaling factors
+- [ ] Second messengers, Diffusion and electrical signaling factors Michael X.Zhu
 
 实验
-- [ ] 基因编辑
-- [ ] 电生理技术
+- [ ] 基因编辑 杨辉
+- [ ] 电生理技术 徐春
 
 神经
 - [ ] Historical Overview of Neuroscience	蒲慕明
