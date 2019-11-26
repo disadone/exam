@@ -20,7 +20,7 @@
 
 神经
 - [ ] Historical Overview of Neuroscience	蒲慕明
-- [ ] Membrane potential and action potential	徐宁龙
+- [X] Membrane potential and action potential	徐宁龙 王华磊
 - [ ] Ion channels	竺淑佳
 - [ ] Synaptic transmission I: Basic synaptic physiology	徐春
 - [ ] Synaptic transmission II: Transmitters and modulators	杜久林
