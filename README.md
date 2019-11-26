@@ -7,14 +7,6 @@
 [植生所-郝国栋整理的实验生物学的资料](http://Nas-3102.quickconnect.cn/d/s/514459095407829205/Yo8dQ48vy4MR5YcjhkDkTaoIJEMdULns-HrKAXuETMgc_)
 手机需要在以桌面版访问，里面有全部的实验生物学的ppt，以及一些复习资料
 
-<img anpai.jpeg/>
-
-实验生物学课件（百度网盘）
-
-链接：https://pan.baidu.com/s/1tCoiJkkwpLBlqGPHyKRy1Q 
-
-提取码：khel 
-
 [网站-神经生物学课件](http://www.cebsit.cas.cn/yjs/zxpy/kjxz/sjswx/)
 
 [网站-分子生物学课件](http://www.sibcb.ac.cn/edu/jiaowu.jsp?ntype=1)
