@@ -20,25 +20,25 @@
 [网站-分子生物学课件](http://www.sibcb.ac.cn/edu/jiaowu.jsp?ntype=1)
 
 分子
-- [] Second messengers, Diffusion and electrical signaling factors
+- [ ] Second messengers, Diffusion and electrical signaling factors
 
 实验
-- [] 基因编辑
-- [] 电生理技术
+- [ ] 基因编辑
+- [ ] 电生理技术
 
 神经
-- [] Historical Overview of Neuroscience	蒲慕明
-- [] Membrane potential and action potential	徐宁龙
-- [] Ion channels	竺淑佳
-- [] Synaptic transmission I: Basic synaptic physiology	徐春
-- [] Synaptic transmission II: Transmitters and modulators	杜久林
-- [] Organization of the CNS	梁智锋
-- [] Macroscopic brain imaging methods	王征
-- [] Optical imaging and optogenetic methods	王凯
-- [] Genetic editing methods	杨辉
-- [] Neural Development I: Neural induction and neuronal differentiation	何杰
-- [] Neural Development II: Neural stem cells and neuroprogenitors	陈跃军
-- [] Neural Development III: Neuronal migration and axon pathfinding	徐华泰
-- [] Neural Development V: Aging of the nervous system	蔡时青
-- [] Neural Development IV: Neural circuit formation and refinement	蒲慕明
+- [ ] Historical Overview of Neuroscience	蒲慕明
+- [ ] Membrane potential and action potential	徐宁龙
+- [ ] Ion channels	竺淑佳
+- [ ] Synaptic transmission I: Basic synaptic physiology	徐春
+- [ ] Synaptic transmission II: Transmitters and modulators	杜久林
+- [ ] Organization of the CNS	梁智锋
+- [ ] Macroscopic brain imaging methods	王征
+- [ ] Optical imaging and optogenetic methods	王凯
+- [ ] Genetic editing methods	杨辉
+- [ ] Neural Development I: Neural induction and neuronal differentiation	何杰
+- [ ] Neural Development II: Neural stem cells and neuroprogenitors	陈跃军
+- [ ] Neural Development III: Neuronal migration and axon pathfinding	徐华泰
+- [ ] Neural Development V: Aging of the nervous system	蔡时青
+- [ ] Neural Development IV: Neural circuit formation and refinement	蒲慕明
 
