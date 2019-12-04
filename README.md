@@ -15,8 +15,8 @@
 - [ ] Second messengers, Diffusion and electrical signaling factors Michael X.Zhu
 
 实验
-- [ ] 基因编辑 杨辉
-- [ ] 电生理技术 徐春
+- [ ] 基因编辑 杨辉 石卉
+- [ ] 电生理技术 徐春 黄潞言
 
 神经
 - [ ] Historical Overview of Neuroscience	蒲慕明
@@ -31,6 +31,6 @@
 - [ ] Neural Development I: Neural induction and neuronal differentiation	何杰
 - [X] Neural Development II: Neural stem cells and neuroprogenitors	陈跃军 曲雪彤
 - [ ] Neural Development III: Neuronal migration and axon pathfinding	徐华泰
-- [ ] Neural Development V: Aging of the nervous system	蔡时青
+- [ ] Neural Development V: Aging of the nervous system	蔡时青 王林翰
 - [ ] Neural Development IV: Neural circuit formation and refinement	蒲慕明
 
