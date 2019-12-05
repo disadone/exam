@@ -15,15 +15,15 @@
 - [ ] Second messengers, Diffusion and electrical signaling factors Michael X.Zhu
 
 实验
-- [ ] 基因编辑 杨辉 石卉
-- [ ] 电生理技术 徐春 黄潞言
+- [X] 基因编辑 杨辉 石卉
+- [X] 电生理技术 徐春 黄潞言
 
 神经
 - [ ] Historical Overview of Neuroscience	蒲慕明
 - [X] Membrane potential and action potential	徐宁龙 王华磊
 - [X] Ion channels	竺淑佳 孙瑜洁
 - [X] Synaptic transmission I: Basic synaptic physiology	徐春 李効东
-- [ ] Synaptic transmission II: Transmitters and modulators	杜久林
+- [X] Synaptic transmission II: Transmitters and modulators	杜久林 赵珊
 - [X] Organization of the CNS	梁智锋 肖永祥
 - [ ] Macroscopic brain imaging methods	王征
 - [ ] Optical imaging and optogenetic methods	王凯
